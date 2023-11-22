@@ -1748,6 +1748,10 @@ form .terms-label-wrap label span {
   .top-block h1 {
     font-size: 5rem;
   }
+  .footer-bg {
+    top: -100px;
+    left: 5%;
+  }
 }
 
 @media screen and (max-width: 500px) {
